@@ -1,7 +1,7 @@
-## Data Science Projects with Python by Stephen Klosterman
+# Data Science Projects with Python by Stephen Klosterman
 A case study approach to gaining valuable insights from real data with machine learning, 2nd
 
-# Table of Contents
+## Table of Contents
 - Data Exploration and Cleaning
 - Introduction to Scikit-Learn and Model Evaluation
 - Details of Logistic Regression and Feature Exploration
