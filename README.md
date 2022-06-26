@@ -1,6 +1,6 @@
 # Data Science Projects with Python by Stephen Klosterman
 A case study approach to gaining valuable insights from real data with machine learning, 2nd
-![mlops-color](https://www.wob.com/en-gb/books/stephen-klosterman/data-science-projects-with-python/9781800564480)
+![mlops-color](https://productimages.worldofbooks.com/1800564481.jpg)
 
 ## Table of Contents
 - Data Exploration and Cleaning
