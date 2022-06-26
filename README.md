@@ -10,5 +10,5 @@ A case study approach to gaining valuable insights from real data with machine l
 * [Details of Logistic Regression and Feature Exploration](https://github.com/amirahmadi-ru/Data_Science_book/tree/main/Chapter%203%20:%20Details%20of%20Logistic%20Regression%20and%20Feature%20Exploration)
 * [The Bias-Variance Trade-off](https://github.com/amirahmadi-ru/Data_Science_book/tree/main/Chapter%204%20:%20The%20Bias-Variance%20Trade-off)
 * [Decision Trees and Random Forests](https://github.com/amirahmadi-ru/Data_Science_book/tree/main/Chapter%205%20:%20Decision%20Trees%20and%20Random%20Forests)
-- Gradient Boosting, XGBoost, and SHAP (SHapley Additive exPlanations) Values
-- Test Set Analysis, Financial Insights, and Delivery to the Client
+* [Gradient Boosting, XGBoost, and SHAP Values](https://github.com/amirahmadi-ru/Data_Science_book/tree/main/Chapter%206%20:%20Gradient%20Boosting%2C%20XGBoost%2C%20and%20SHAP%20Values)
+* [Test Set Analysis, Financial Insights, and Delivery to the Client](https://github.com/amirahmadi-ru/Data_Science_book/tree/main/Chapter%207%20:%20Test%20Set%20Analysis%2C%20Financial%20Insights%2C%20and%20Delivery%20to%20the%20Client)
