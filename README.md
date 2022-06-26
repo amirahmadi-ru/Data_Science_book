@@ -1,8 +1,11 @@
 # Data Science Projects with Python by Stephen Klosterman
 A case study approach to gaining valuable insights from real data with machine learning, 2nd
-![mlops-color](https://productimages.worldofbooks.com/1800564481.jpg)
+![Data-Science-Projects-with-Python](https://productimages.worldofbooks.com/1800564481.jpg)
+* [Purchase Data Science Projects with Python](https://www.amazon.com/Practical-MLOps-Operationalizing-Machine-Learning/dp/1098103017)
+
 
 ## Table of Contents
+
 - Data Exploration and Cleaning
 - Introduction to Scikit-Learn and Model Evaluation
 - Details of Logistic Regression and Feature Exploration
